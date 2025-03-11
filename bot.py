@@ -9,7 +9,7 @@ from flask import Flask, request, render_template
 API_ID = 21017005
 API_HASH = "031173130fa724e7ecded16064724d96"
 BOT_TOKEN = "7255116298:AAGcV3D3FozEw7rQAmHL6r5ULOfMV7wRnQU"
-MONGO_URI = "mongodb+srv://myth:myth@susan.di1l8.mongodb.net/?retryWrites=true&w=majority&appName=Susan"
+MONGO_URI = "mongodb+srv://areszyn:CVft6qaxIkf9rOiR@areszyn.zcmfu.mongodb.net/?retryWrites=true&w=majority&appName=areszyn"
 OWNER_ID = 2114237158  # Replace with your Telegram ID
 LOG_CHANNEL = -1002426409041  # Log Channel
 
