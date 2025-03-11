@@ -8,7 +8,7 @@ from flask import Flask, request, render_template
 # Bot & Database Config
 API_ID = 21017005
 API_HASH = "031173130fa724e7ecded16064724d96"
-BOT_TOKEN = "7255116298:AAGcV3D3FozEw7rQAmHL6r5ULOfMV7wRnQU"
+BOT_TOKEN = "7255116298:AAEmK6DDhqtTMpgod_reTkGU8hFBb1U0DQs"
 MONGO_URI = "mongodb+srv://areszyn:CVft6qaxIkf9rOiR@areszyn.zcmfu.mongodb.net/?retryWrites=true&w=majority&appName=areszyn"
 OWNER_ID = 2114237158  # Replace with your Telegram ID
 LOG_CHANNEL = -1002426409041  # Log Channel
