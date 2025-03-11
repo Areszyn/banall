@@ -1,0 +1,11 @@
+app = "your-app-name"  # Change this to your app name
+
+[build]
+
+[[services]]
+  internal_port = 5000
+  protocol = "tcp"
+
+  [[services.ports]]
+    handlers = ["http"]
+    port = 5000
